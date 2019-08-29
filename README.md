@@ -1,6 +1,6 @@
 # Shizy-Springboot-Empty
 
-完全空的springboot项目，没有数据库，没有CRUD，何もないです。
+空的springboot项目，没有数据库，没有CRUD，，没有各种配置，各种功能，何もないです。
 
 ### quick start
 ```
