@@ -2,7 +2,7 @@
 
 空的springboot项目，没有数据库，没有CRUD，，没有各种配置，各种功能，何もないです。
 
-### quick start
+### Quick Start
 ```
 http://127.0.0.1/
 ```
