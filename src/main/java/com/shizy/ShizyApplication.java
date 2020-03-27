@@ -10,9 +10,9 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class ShizyApplication {
     public static void main(String[] args) {
 
-        System.out.println("========================");
-        System.out.println("docker作业：石中玉");
-        System.out.println("========================");
+//        System.out.println("========================");
+//        System.out.println("docker作业：石中玉");
+//        System.out.println("========================");
 
         SpringApplication.run(ShizyApplication.class, args);
     }
