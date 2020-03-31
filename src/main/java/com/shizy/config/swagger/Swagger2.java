@@ -1,4 +1,4 @@
-package com.shizy.config.swager;
+package com.shizy.config.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

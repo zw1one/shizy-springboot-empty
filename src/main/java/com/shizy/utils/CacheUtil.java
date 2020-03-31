@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 @Component
 public class CacheUtil {
 
-    /**
+     /**
      * 缓存过期时间，10分钟
      */
     private final static int EXPIRED = 10 * 60;

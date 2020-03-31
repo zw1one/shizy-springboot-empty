@@ -46,7 +46,7 @@ public class RedisTestController {
 
         System.out.println();
 
-        //key
+        //key {"userName" : "shizy"}
         redisTemplate.opsForValue().set("shizy:redisTest:userName", "shizy");//重新set会覆盖
         redisTemplate.opsForValue().set("shizy:redisTest:userNameGG", "shizyGG", 60, TimeUnit.SECONDS);
 
