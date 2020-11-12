@@ -8,7 +8,6 @@
     <artifactId>Shizy-Springboot-Empty</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -20,7 +19,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
     </properties>
-
 
     <!--================================repositories=================================-->
 
@@ -57,7 +55,6 @@
         </dependency>
 
         <!--springboot-->
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -73,7 +70,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
-
         <!--springboot end-->
 
     </dependencies>
